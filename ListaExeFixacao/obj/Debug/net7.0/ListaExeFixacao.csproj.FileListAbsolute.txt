@@ -1,0 +1,15 @@
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/bin/Debug/net7.0/ListaExeFixacao
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/bin/Debug/net7.0/ListaExeFixacao.deps.json
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/bin/Debug/net7.0/ListaExeFixacao.runtimeconfig.json
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/bin/Debug/net7.0/ListaExeFixacao.dll
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/bin/Debug/net7.0/ListaExeFixacao.pdb
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/obj/Debug/net7.0/ListaExeFixacao.csproj.AssemblyReference.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/obj/Debug/net7.0/ListaExeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/obj/Debug/net7.0/ListaExeFixacao.AssemblyInfoInputs.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/obj/Debug/net7.0/ListaExeFixacao.AssemblyInfo.cs
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/obj/Debug/net7.0/ListaExeFixacao.csproj.CoreCompileInputs.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/obj/Debug/net7.0/ListaExeFixacao.dll
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/obj/Debug/net7.0/refint/ListaExeFixacao.dll
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/obj/Debug/net7.0/ListaExeFixacao.pdb
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/obj/Debug/net7.0/ListaExeFixacao.genruntimeconfig.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/ListaExeFixacao/ListaExeFixacao/obj/Debug/net7.0/ref/ListaExeFixacao.dll
